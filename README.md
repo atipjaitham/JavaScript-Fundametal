@@ -8,6 +8,6 @@ If you're interested in self-learning, you can access the course on YouTube thro
 
 Alternatively, if you want to learn and work on projects to earn a certificate, you can register for free at [Borntodev School](https://school.borntodev.com/course/introduction-to-javascript). 🎓
 
-Special thanks to [BorntoDev]((https://www.borntodev.com/)) for supporting free access to education for everyone.
+Special thanks to [BorntoDev](https://borntodev.com) for supporting free access to education for everyone.
 
 Hope you enjoy learning every day and never stop developing yourself! ✨
